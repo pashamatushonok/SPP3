@@ -1,0 +1,2 @@
+C:\Users\Lenovo\Desktop\WpfAppAssemblyBrowser\AssemblyBrowser\obj\Debug\AssemblyBrowser.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\WpfAppAssemblyBrowser\AssemblyBrowser\obj\Debug\AssemblyBrowser.csproj.CoreCompileInputs.cache

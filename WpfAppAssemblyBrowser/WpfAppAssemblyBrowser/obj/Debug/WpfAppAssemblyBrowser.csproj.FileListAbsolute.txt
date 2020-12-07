@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\WpfAppAssemblyBrowser\WpfAppAssemblyBrowser\obj\Debug\WpfAppAssemblyBrowser.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\WpfAppAssemblyBrowser\WpfAppAssemblyBrowser\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\WpfAppAssemblyBrowser\WpfAppAssemblyBrowser\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\WpfAppAssemblyBrowser\WpfAppAssemblyBrowser\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lenovo\Desktop\WpfAppAssemblyBrowser\WpfAppAssemblyBrowser\obj\Debug\WpfAppAssemblyBrowser_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\WpfAppAssemblyBrowser\WpfAppAssemblyBrowser\obj\Debug\WpfAppAssemblyBrowser_MarkupCompile.lref
